@@ -14,3 +14,7 @@ python train.py
 # Inference
 python inference.py
 ```
+## Requirements
+- Python 3 (Anaconda is recommended)
+- transformers == 2.1.1
+- pytorch == 1.1.0
