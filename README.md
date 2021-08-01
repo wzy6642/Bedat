@@ -3,7 +3,7 @@
 ## How To Use
 
 ### Preprocessing
-- Step1: Download the preprocessed data from https://drive.google.com/drive/folders/1kSbJHwWwz5zG7wlFCP88wtd-XK1wNpSo
+- Step1: Download the preprocessed data from https://pan.baidu.com/s/1HloCHAAMtgC9ZrOs6MNOpQ password：hjjn
 - Step2: Put the data file in <tt> data/</tt>
 
 ### Training 
