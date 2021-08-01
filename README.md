@@ -9,5 +9,8 @@
 ### Training 
 #### Example of training on Twitter dataset:
 ```python
+# Train
 python train.py
+# Inference
+python inference.py
 ```
