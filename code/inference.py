@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Sep 4 11:25:40 2020
-Highlight：
-    1、定义模型的推理过程，我们的模型需要先对转发时间ID进行推理，然后对推理结果做embedding并加入到行为预测的过程中
-    2、注意time_window变量与训练过程中保持一致
+
 @author: Zhenyu Wu
 """
 #################################
