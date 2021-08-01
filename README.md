@@ -9,6 +9,5 @@
 ### Training 
 #### Example of training on Twitter dataset:
 ```python
-python run_loop.py --mode=train --cluster_num=5 --num_epochs=5 --gpu_id=0 \ 
-                   --model_dir=./ckpt --learning_rate=1e-4 --num_epochs=10 --pretrain_dir=./pretrain
+python train.py
 ```
