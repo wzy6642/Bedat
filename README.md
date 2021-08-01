@@ -6,7 +6,7 @@
 - Step1: Download the preprocessed data from https://pan.baidu.com/s/1HloCHAAMtgC9ZrOs6MNOpQ password：hjjn
 - Step2: Put the data file in <tt> data/</tt>
 
-### Training 
+### Training and Inference
 #### Example of training on Twitter dataset:
 ```python
 # Train
